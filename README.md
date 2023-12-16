@@ -8,7 +8,7 @@ Welcome to the Cooking Adventure project repository! Cooking Adventure is my ina
 2. [Getting Started]
 3. [Features]
 4. [Technologies Used]
-5. [Project Images]
+5. [Project Images] 
 
 
 ## Description
@@ -62,7 +62,7 @@ MIT License
 
 ### Home page
 
-<img src="https://github.com/caaeesar/Cooking-Adventure/blob/1d846b52003e5074a57253aef1ef8524091eee14/project-images/home-page.png" style="width: 700px"/>
+<img src="https://github.com/caaeesar/Cooking-Adventure/blob/1d846b52003e5074a57253aef1ef8524091eee14/project-images/home-page.png" style="width: 1000px"/>
 
 ### Navigations
 
