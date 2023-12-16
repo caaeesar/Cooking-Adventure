@@ -18,10 +18,9 @@ Cooking Adventure is a web application that empowers users to unleash their culi
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Configure your MySQL database by updating the application.yml configuration file.
-3. Configure environment variables by updating application.yml.
-4. Build and run the project using Gradle.
-5. Access the web application by visiting http://localhost:8080/ in your web browser.
+2. Configure environment variables by updating application.yml.
+3. Build and run the project using Gradle.
+4. Access the web application by visiting http://localhost:8080/ in your web browser.
 
 ## Features
 
