@@ -74,13 +74,13 @@ MIT License
 ### Non-Logged-In Users
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/658723a5d11f1fbf9edf51621970bc1879e85e0f/project-images/all-recipes.png" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/658723a5d11f1fbf9edf51621970bc1879e85e0f/project-images/detail-recipe-not-logged.png" style="width: 700px"/>
-<img src="https://github.com/caaeesar/Cooking-Adventure/blob/658723a5d11f1fbf9edf51621970bc1879e85e0f/project-images/registration.png" style="width: 700px"/>
-<img src="https://github.com/caaeesar/Cooking-Adventure/blob/658723a5d11f1fbf9edf51621970bc1879e85e0f/project-images/registration-validation.png" style="width: 700px"/>
+<img src="https://github.com/caaeesar/Cooking-Adventure/blob/7fa5049b4ec6017be44041b6d20b63199aa1482f/project-images/registration.png" style="width: 700px"/>
+<img src="https://github.com/caaeesar/Cooking-Adventure/blob/7fa5049b4ec6017be44041b6d20b63199aa1482f/project-images/registration-validation.png" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/login.png" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/login-wrong.png" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/login-inactive-acc.png" style="width: 700px"/>
-<img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/create-recipe.png" style="width: 700px"/>
-<img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/create-recipe-validation.png" style="width: 700px"/>
+<img src="https://github.com/caaeesar/Cooking-Adventure/blob/ea0f847e1cc7c6473a04f17568032bb06a5447fa/project-images/create-recipe.png" style="width: 700px"/>
+<img src="https://github.com/caaeesar/Cooking-Adventure/blob/ea0f847e1cc7c6473a04f17568032bb06a5447fa/project-images/create-recipe-validation.png" style="width: 700px"/>
 
 ### Logged-In Users
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/recipes.png" style="width: 700px"/>
