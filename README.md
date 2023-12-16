@@ -83,7 +83,6 @@ MIT License
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/create-recipe-validation.png" style="width: 700px"/>
 
 ### Logged-In Users
-<img src="" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/recipes.png" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/detail-recipe.png" style="width: 700px"/>
 <img src="https://github.com/caaeesar/Cooking-Adventure/blob/a8c309ede3be0d819333faeb24aa5aaca93291f0/project-images/profile.png" style="width: 700px"/>
